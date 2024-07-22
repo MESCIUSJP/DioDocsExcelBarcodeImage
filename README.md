@@ -1,1 +1,2 @@
+# DioDocsExcelBarcodeImage
 ワークシートのセルにバーコード・QRコードを追加する
